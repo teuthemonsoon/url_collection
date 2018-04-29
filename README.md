@@ -6,7 +6,7 @@
 `<a href=${url}>`
 及从form表单中提取url并自动拼接参数<br>
 ## 用法
-python url_collection.py https://www.github.com
+python url_collection.py http://www.tenteu.com
 
 ## todo
 将增加对url相似度的识别<br>
